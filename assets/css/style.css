@@ -88,7 +88,6 @@ header a {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    display: flex;
 }
 
 
@@ -102,8 +101,6 @@ header a {
     display: inline-block;
     margin-left: 20px;
     display: flex;
-    flex-direction: column;
-    align-content: stretch;
 }
 
 .content-item {
